@@ -1,5 +1,4 @@
-# CRISC
-Center for Resilient Infrastructure and Smart City
+# Center for Resilient Infrastructure and Smart City
 
 [About]
 
